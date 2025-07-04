@@ -1,8 +1,6 @@
-
 {
   "functions": {
     "api/us-alert.js": {
-      "runtime": "edge",
       "memory": 128
     }
   }
