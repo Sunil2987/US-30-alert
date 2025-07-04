@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/us-alert.js": {
+    "api/stock-bot.js": {
       "memory": 128
     }
   }
