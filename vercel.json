@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/stock-bot.js": {
-      "memory": 128
-    }
-  }
-}
