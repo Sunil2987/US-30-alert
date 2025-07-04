@@ -3,11 +3,5 @@
     "api/us-alert.js": {
       "runtime": "edge"
     }
-  },
-  "cron": [
-    {
-      "path": "/api/us-alert",
-      "schedule": "*/10 13-20 * * 1-5"
-    }
-  ]
+  }
 }
